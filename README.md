@@ -1,3 +1,3 @@
 # fame-app
-fame .pro og .inp .java .html
+fame .pro .inp .java .html
  
